@@ -1,0 +1,34 @@
+p
+{
+    color: red;
+}
+
+#slider::-webkit-slider-runnable-track
+{
+    background: teal;
+}
+
+#slider::-webkit-slider-thumb
+{
+    background: black;
+}
+
+#slider::-moz-range-track
+{
+    background: teal;
+}
+
+#slider::-moz-range-thumb
+{
+    background: black;
+}
+
+#progressBar::-webkit-progress-bar
+{
+    background: maroon;
+}
+
+#progressBar::-webkit-progress-value
+{
+    background: orange;
+}
